@@ -1,0 +1,40 @@
+
+# Compiled binaries
+/clipman
+/bin/
+/dist/
+*.exe
+*.out
+*.test
+
+# Go build cache and coverage
+coverage.out
+coverage.html
+*.coverprofile
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# Backup files
+*.bak
+*.old
